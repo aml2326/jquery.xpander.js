@@ -17,8 +17,8 @@ string | previewHeight  | Used to partially show cotents of .expand-content.
 int | slideSpeed  | Speed of slide animation in milliseconds. Default: 300.
 bool | switchCopy  | Whether to switch the copy for the trigger or not. Default: true.
 Object[string, bool]] | gaqPush  |
-|eventName | Google Analytics event name. Default: xpander.  
-|push|Turns on/off event pushing. Default: false.
+  |eventName | Google Analytics event name. Default: xpander.  
+  |push|Turns on/off event pushing. Default: false.
 
 
 
