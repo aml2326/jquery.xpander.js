@@ -1,6 +1,8 @@
 #jquery.xpander.js
 
-@version 1.2.5  
+@version 1.2.5
+
+View the [demo](http://www.adamleder.com/sandbox/jquery.xpander/).
 
 The plugin can be passed an {object}, options; A JSON object containing configuration options to override defaults. Possible values are:
 
